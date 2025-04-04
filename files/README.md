@@ -62,7 +62,7 @@ View services|	Click on Services|	Shows services with icons and details
       * Bootstrap
 
 * Deployment
-      * Netlify  
+      * Vercel 
 
 
 
