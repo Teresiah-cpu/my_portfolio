@@ -77,9 +77,9 @@ View services|	Click on Services|	Shows services with icons and details
 To get the code..
 
 1. Clone the repository:
-  ```bash
+  
   git clone https://github.com/Teresiah-cpu/Queens_of_Hope
-  ```
+
 
 
 
